@@ -10,7 +10,7 @@
         "shortDescription": "An example that shows how to mantain a constant rotation speed using a closed loop algorithm",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ">=5.30"
+            "semverRange": ">=5.30.0"
         },
         "compiler": [
 			{
