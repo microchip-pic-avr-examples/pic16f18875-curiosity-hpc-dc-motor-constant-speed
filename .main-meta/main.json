@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic16f18875-curiosity-hpc-dc-motor-constant-speed",
         "version": "1.0.1",
-        "displayName": "PIC16F18875 DC motor constant speed example",
+        "displayName": "DC Motor Control with Constant Speed",
         "projectName": "pic16f18875-curiosity-hpc-dc-motor-constant-speed",
         "shortDescription": "An example that shows how to mantain a constant rotation speed using a closed loop algorithm",
         "ide": {
@@ -39,14 +39,15 @@
         "author": "Microchip",
         "subcategories": [
             [
-               "Peripherals", "SMT"
+               "Peripherals",
+			   "SMT"
             ]
         ],
         "peripherals": [
             "SMT"
         ],
         "keywords": [
-            "DC motor"
+            "DC Motor Control"
         ],
 		"additionalData": {
 			"longDescription": {

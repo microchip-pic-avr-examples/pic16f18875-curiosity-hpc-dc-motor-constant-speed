@@ -1,9 +1,8 @@
-<a href="https://www.microchip.com" rel="nofollow"><img src="images/MicrochipLogo.PNG" alt="MCHP" width="300"/></a>
+[![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# PIC16F18875 DC motor constant speed
+# DC Motor Control with Constant Speed
 
 The PIC16F18875 features Signal Measurement Timer. This project is an upgrade to [DC motor PWM](https://github.com/microchip-pic-avr-examples/pic16f18875-curiosity-hpc-board-dc-motor-with-pwm), where the PWM duty cycle is adjusted using a potentiometer, but rotation speed is heavily depending on the motor mechanical load.
-
 The presented method is still using a potentiometer as a reference, but the the rotation speed is monitored and kept constant using a closed loop algorithm.
 
 ## Related Documentation
